@@ -8,7 +8,7 @@ Please see http://imagein.webknit.co.uk/ for more information.
 Log
 ---
 
-- V1.0.0 (03/06/2014) - Initial ImageIn committ
+- V1.0.0 (03/06/2014) - Initial ImageIn commit
 
 
 
